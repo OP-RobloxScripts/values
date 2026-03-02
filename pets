@@ -1,4 +1,5 @@
-[{
+[
+	{
         "image": "/images/pets/Hedgehog.png",
         "rvalue": 54,
         "nvalue": 178,
@@ -39150,4 +39151,3 @@
         "id": 2634
     }
 ]
-
